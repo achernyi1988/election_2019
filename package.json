@@ -1,0 +1,26 @@
+{
+  "name": "election_2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achernyi1988/election_2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achernyi1988/election_2019/issues"
+  },
+  "homepage": "https://github.com/achernyi1988/election_2019#readme",
+  "dependencies": {
+    "geth": "^0.4.0",
+    "web3": "^1.0.0-beta.37"
+  }
+}
